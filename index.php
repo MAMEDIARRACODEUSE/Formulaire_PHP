@@ -9,7 +9,7 @@
 
   <title>Formulaire</title>
 
-  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" type="text/css" href="./asset/style.css">
   <!---Importation de Google Fonts pour les fonts-->
   <link href="https://fonts.googleapis.com/css?family=Ubuntu&display=swap" rel="stylesheet">
 </head>
