@@ -50,7 +50,6 @@
             <div class="col-75">
                 <select id="pays" name="pays">
                     <option value="Sénégal">Sénégal</option>
-                    <option value="Angleterre">Angleterre</option>
                     <option value="France">France</option>
                     <option value="USA">USA</option>
                 </select>
